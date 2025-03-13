@@ -1,2 +1,2 @@
 # csharp-chess
-An implementation of Chess in a terminal using C#
+A C# console implementation of chess with working castling, promotion etc.
